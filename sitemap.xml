@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/bateyt.github.io/post/2018-02-19-stratification-activity/</loc>
+      <lastmod>2018-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/bateyt.github.io/talk/example-talk/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
@@ -61,6 +70,16 @@
     
       <loc>/bateyt.github.io/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/bateyt.github.io/tags/activities/</loc>
+      <lastmod>2018-02-19T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -136,8 +155,38 @@
     
     <url>
     
+      <loc>/bateyt.github.io/tags/sociology/</loc>
+      <lastmod>2018-02-19T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/bateyt.github.io/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/bateyt.github.io/tags/teaching/</loc>
+      <lastmod>2018-02-19T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/bateyt.github.io/categories/teaching/</loc>
+      <lastmod>2018-02-19T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
