@@ -7,18 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/bateyt.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Teaching</title>
-      <link>/bateyt.github.io/teaching/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      <title>Biological Anthropology</title>
+      <link>/bateyt.github.io/teaching/anth205/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/bateyt.github.io/teaching/</guid>
-      <description></description>
+      <guid>/bateyt.github.io/teaching/anth205/</guid>
+      <description>This is the landing page for ANTH&amp;amp;205&amp;ndash;Biological Anthropology.</description>
+    </item>
+    
+    <item>
+      <title>Survey of Anthropology</title>
+      <link>/bateyt.github.io/teaching/anth100/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/bateyt.github.io/teaching/anth100/</guid>
+      <description>This is the landing page for ANTH&amp;amp;100&amp;ndash;Survey of Anthropology.</description>
     </item>
     
   </channel>
