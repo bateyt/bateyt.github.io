@@ -1,7 +1,7 @@
 ---
 title: Hello Tuftesque
-author: ''
-date: '`r format(Sys.Date(), '%d %B %Y')`'
+author: "Trey Batey"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
 slug: hello-tuftesque
 categories: []
 tags: []
