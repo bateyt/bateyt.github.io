@@ -1,7 +1,7 @@
 ---
 title: Hello Tuftesque
 author: "Trey Batey"
-date: "`r format(Sys.time(), '%d %B, %Y')`"
+date: "Last edited on `r format(Sys.time(), '%d %B %Y')`"
 slug: hello-tuftesque
 categories: []
 tags: []
